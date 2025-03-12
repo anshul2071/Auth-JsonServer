@@ -1,10 +1,10 @@
-# uTalk Application
+# Authjson Application
 
 A simple web-based user authentication system with registration and login functionality, built with Vite and JSON Server.
 
 ## Overview
 
-uTalk is a lightweight application demonstrating basic user authentication. It features a clean, responsive UI and uses a JSON-based backend for user data storage. The application is built using Vite as the frontend build tool, providing a fast development experience with Vanilla JS.
+Authjson is a lightweight application demonstrating basic user authentication. It features a clean, responsive UI and uses a JSON-based backend for user data storage. The application is built using Vite as the frontend build tool, providing a fast development experience with Vanilla JS.
 
 ## Features
 
