@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "7ce4",
+      "firstName": "Anshul ",
+      "lastName": "Rawal",
+      "email": "anshul2071@gmail.com",
+      "password": "Goodwill@123",
+      "gender": "Male",
+      "age": "25"
+    },
+    {
+      "id": "548b",
+      "firstName": "Rahul",
+      "lastName": "Shah",
+      "email": "rahul2sha@outlook.com",
+      "password": "Rahul@123",
+      "gender": "Male",
+      "age": "26"
+    }
+  ]
+}

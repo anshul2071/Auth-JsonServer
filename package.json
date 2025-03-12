@@ -1,0 +1,15 @@
+{
+  "name": "auth-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "backend": "json-server --watch backend/db.json"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
